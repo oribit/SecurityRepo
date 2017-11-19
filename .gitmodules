@@ -4,3 +4,6 @@
 [submodule "networks/t50"]
 	path = networks/t50
 	url = https://github.com/fredericopissarra/t50
+[submodule "networks/netzob"]
+	path = networks/netzob
+	url = https://github.com/netzob/netzob.git
