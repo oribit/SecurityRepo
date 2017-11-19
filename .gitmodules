@@ -1,3 +1,6 @@
 [submodule "CTF/awesome-ctf"]
 	path = CTF/awesome-ctf
 	url = https://github.com/apsdehal/awesome-ctf.git
+[submodule "networks/t50"]
+	path = networks/t50
+	url = https://github.com/fredericopissarra/t50
